@@ -1,10 +1,5 @@
 /*  ---------------------------------------------------
-    Theme Name: Cake
-    Description: Cake e-commerce tamplate
-    Author: Colorib
-    Author URI: https://www.colorib.com/
-    Version: 1.0
-    Created: Colorib
+
 ---------------------------------------------------------  */
 
 'use strict';
@@ -72,7 +67,9 @@
         animateIn: 'fadeIn',
         smartSpeed: 1200,
         autoHeight: false,
-        autoplay: false
+        autoplay: true,
+        autoplayTimeout:4000,
+        autoplayHoverPause:true
     });
 
     /*--------------------------

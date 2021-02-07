@@ -103,7 +103,7 @@ ol {
   margin-bottom: 35px;
 }
 .section-title span {
-  color: #f08632;
+  color: #00abe4;
   font-size: 20px;
   font-weight: 600;
   text-transform: uppercase;
@@ -152,7 +152,7 @@ ol {
   text-transform: uppercase;
   padding: 14px 30px;
   color: #ffffff;
-  background: #f08632;
+  background: #00abe4;
   letter-spacing: 2px;
 }
 
@@ -301,7 +301,7 @@ ol {
   Header
 -----------------------*/
 .header {
-  background: #f08632;
+  background: #00abe4;
 }
 
 .header__top {
@@ -452,10 +452,10 @@ ol {
   margin-right: -5px;
 }
 .header__menu ul li.active a {
-  background: #111111;
+  background: #003671;
 }
 .header__menu ul li:hover a {
-  background: #111111;
+  background: #003671;
 }
 .header__menu ul li:hover .dropdown {
   top: 62px;
@@ -470,7 +470,7 @@ ol {
   left: 0;
   top: 82px;
   width: 150px;
-  background: #111111;
+  background: #003671;
   text-align: left;
   padding: 5px 0;
   z-index: 9;
@@ -540,7 +540,7 @@ ol {
   top: 15px;
   height: calc(100% - 30px);
   width: calc(100% - 30px);
-  border: 1px dashed #f08632;
+  border: 1px dashed #003671;
   content: "";
   opacity: 0.3;
 }
@@ -602,7 +602,7 @@ ol {
 }
 .categories__slider.owl-carousel .owl-stage-outer {
   padding-bottom: 40px;
-  border-bottom: 1px solid rgba(240, 135, 50, 0.5);
+  border-bottom: 1px solid rgb(0, 54, 113, 0.5);
 }
 .categories__slider.owl-carousel .owl-nav button {
   font-size: 36px;
@@ -635,8 +635,8 @@ ol {
   bottom: -48px;
   width: 15px;
   height: 15px;
-  border: 1px solid #f08632;
-  border-color: transparent #f08632 #f08632 transparent;
+  border: 1px solid #003671;
+  border-color: transparent #003671 #003671 transparent;
   content: "";
   -webkit-transform: rotate(-135deg);
       -ms-transform: rotate(-135deg);
@@ -647,7 +647,7 @@ ol {
   transition: all, 0.3s;
 }
 .categories__item:hover {
-  background: #f08632;
+  background: #003671;
 }
 .categories__item:hover:after {
   opacity: 1;
@@ -660,7 +660,7 @@ ol {
 }
 
 .categories__item__icon span {
-  color: #f08632;
+  color: #00abe4;
   -webkit-transition: all, 0.2s;
   -o-transition: all, 0.2s;
   transition: all, 0.2s;
@@ -679,7 +679,7 @@ ol {
   Class
 -----------------------*/
 .class {
-  background: rgba(240, 135, 50, 0.1);
+  background: #a0a2da0f;
   position: relative;
   padding-bottom: 0;
 }
@@ -762,7 +762,7 @@ ol {
   display: inline-block;
   width: 70px;
   height: 70px;
-  background: #f08632;
+  background: #00abe4;
   font-size: 24px;
   color: #ffffff;
   line-height: 70px;
@@ -836,7 +836,7 @@ ol {
   Testimonial
 -----------------------*/
 .testimonial {
-  background: #fdf3ea;
+  background: #a0a2da0f;
   padding-top: 90px;
   padding-bottom: 70px;
 }
@@ -874,7 +874,7 @@ ol {
 }
 .testimonial__item .rating span {
   font-size: 14px;
-  color: #f0c656;
+  color: #003671;
   margin-right: -5px;
   display: inline-block;
 }
@@ -1026,7 +1026,7 @@ ol {
   margin-bottom: 40px;
 }
 .product__item:hover .product__item__pic .product__label span {
-  background: #f08632;
+  background: #003671;
   color: #ffffff;
 }
 .product__item:hover .product__item__text .product__item__price {
@@ -1102,7 +1102,7 @@ ol {
   font-size: 16px;
   font-weight: 600;
   display: inline-block;
-  border-bottom: 2px solid #f08632;
+  border-bottom: 2px solid #003671;
   padding-bottom: 4px;
 }
 
@@ -1225,7 +1225,7 @@ ol {
 }
 .footer__newslatter form button {
   font-size: 20px;
-  color: #f08632;
+  color: #00abe4;
   background: transparent;
   border: none;
   position: absolute;
@@ -1247,10 +1247,10 @@ ol {
   color: #888888;
 }
 .copyright__text i {
-  color: #f08632;
+  color: #00abe4;
 }
 .copyright__text a {
-  color: #f08632;
+  color: #00abe4;
 }
 
 .copyright__widget {

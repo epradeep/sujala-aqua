@@ -92,20 +92,23 @@
                     <nav class="header__menu mobile-menu">
                         <ul>
                             <li class="active"><a href="#">Home</a></li>
-                            <li><a href="#">About</a></li>
-                            <li><a href="#">Shop</a></li>
-                            <li><a href="#">Pages</a>
+                            <li><a href="#">About Us</a></li>
+                            <li><a href="#">Products</a>
                                 <ul class="dropdown">
-                                    <li><a href="#">Shop Details</a></li>
-                                    <li><a href="#">Shoping Cart</a></li>
-                                    <li><a href="#">Check Out</a></li>
-                                    <li><a href="#">Wisslist</a></li>
-                                    <li><a href="#">Class</a></li>
-                                    <li><a href="#">Blog Details</a></li>
+                                    <li><a href="#">Domestic</a></li>
+                                    <li><a href="#">Commercial</a></li>
+                                   
                                 </ul>
                             </li>
-                            <li><a href="#">Blog</a></li>
-                            <li><a href="#">Contact</a></li>
+                            <li><a href="#">Service</a>
+                                <ul class="dropdown">
+                                    <li><a href="#">Domestic</a></li>
+                                    <li><a href="#">Commercial</a></li>
+                                   
+                                </ul>
+                            </li>
+                            <li><a href="#">Our Clients</a></li>
+                            <li><a href="#">Contact Us</a></li>
                         </ul>
                     </nav>
                 </div>
