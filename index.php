@@ -10,7 +10,7 @@
     <!-- Hero Section Begin -->
     <section class="hero">
         <div class="hero__slider owl-carousel">
-            <div class="hero__item set-bg" data-setbg="img/hero/hero-1.jpg">
+            <div class="hero__item set-bg" data-setbg="img/hero/bg-1.jpg">
                 <div class="container">
                     <div class="row d-flex justify-content-center">
                         <div class="col-lg-8">
@@ -22,7 +22,7 @@
                     </div>
                 </div>
             </div>
-            <div class="hero__item set-bg" data-setbg="img/hero/bg-1.jpg">
+            <div class="hero__item set-bg" data-setbg="img/hero/bg-2.png">
                 <div class="container">
                     <div class="row d-flex justify-content-center">
                         <div class="col-lg-8">
@@ -135,13 +135,13 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="product__item">
-                        <div class="product__item__pic set-bg" data-setbg="img/shop/product-1.jpg">
+                        <div class="product__item__pic set-bg" data-setbg="img/shop/kent-supreme-plus.jpg">
                             <div class="product__label">
-                                <span>Cupcake</span>
+                                <span>Domestic</span>
                             </div>
                         </div>
                         <div class="product__item__text">
-                            <h6><a href="#">Dozen Cupcakes</a></h6>
+                            <h6><a href="#">KENT Supreme Plus</a></h6>
                             <div class="product__item__price">&#8377;32.00</div>
                             <div class="cart_add">
                                 <a href="#">Add to cart</a>
@@ -151,13 +151,13 @@
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="product__item">
-                        <div class="product__item__pic set-bg" data-setbg="img/shop/product-2.jpg">
+                        <div class="product__item__pic set-bg" data-setbg="img/shop/p-zone-aquagem.jpg">
                             <div class="product__label">
-                                <span>Cupcake</span>
+                                <span>Domestic</span>
                             </div>
                         </div>
                         <div class="product__item__text">
-                            <h6><a href="#">Cookies and Cream</a></h6>
+                            <h6><a href="#">P-zone Aquagem</a></h6>
                             <div class="product__item__price">&#8377;30.00</div>
                             <div class="cart_add">
                                 <a href="#">Add to cart</a>
@@ -167,13 +167,13 @@
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="product__item">
-                        <div class="product__item__pic set-bg" data-setbg="img/shop/product-3.jpg">
+                        <div class="product__item__pic set-bg" data-setbg="img/shop/kent-maxx.png">
                             <div class="product__label">
-                                <span>Cupcake</span>
+                                <span>Domestic</span>
                             </div>
                         </div>
                         <div class="product__item__text">
-                            <h6><a href="#">Gluten Free Mini Dozen</a></h6>
+                            <h6><a href="#">Kent maxx</a></h6>
                             <div class="product__item__price">&#8377;31.00</div>
                             <div class="cart_add">
                                 <a href="#">Add to cart</a>
@@ -183,13 +183,13 @@
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="product__item">
-                        <div class="product__item__pic set-bg" data-setbg="img/shop/product-4.jpg">
+                        <div class="product__item__pic set-bg" data-setbg="img/shop/kent-maxx-star.png">
                             <div class="product__label">
-                                <span>Cupcake</span>
+                                <span>Domestic</span>
                             </div>
                         </div>
                         <div class="product__item__text">
-                            <h6><a href="#">Cookie Dough</a></h6>
+                            <h6><a href="#">Kent Maxx Star</a></h6>
                             <div class="product__item__price">&#8377;25.00</div>
                             <div class="cart_add">
                                 <a href="#">Add to cart</a>
@@ -199,14 +199,14 @@
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="product__item">
-                        <div class="product__item__pic set-bg" data-setbg="img/shop/product-5.jpg">
+                        <div class="product__item__pic set-bg" data-setbg="img/shop/waterq-ro.jpg">
                             <div class="product__label">
-                                <span>Cupcake</span>
+                                <span>Commercial</span>
                             </div>
                         </div>
                         <div class="product__item__text">
-                            <h6><a href="#">Vanilla Salted Caramel</a></h6>
-                            <div class="product__item__price">&#8377;05.00</div>
+                            <h6><a href="#">WaterQ RO-25 LPH</a></h6>
+                            <div class="product__item__price">&#8377;15000.00</div>
                             <div class="cart_add">
                                 <a href="#">Add to cart</a>
                             </div>
@@ -215,14 +215,14 @@
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="product__item">
-                        <div class="product__item__pic set-bg" data-setbg="img/shop/product-6.jpg">
+                        <div class="product__item__pic set-bg" data-setbg="img/shop/50lph-commercial-ro.jpg">
                             <div class="product__label">
-                                <span>Cupcake</span>
+                                <span>Commercial</span>
                             </div>
                         </div>
                         <div class="product__item__text">
-                            <h6><a href="#">German Chocolate</a></h6>
-                            <div class="product__item__price">&#8377;14.00</div>
+                            <h6><a href="#">50 LPH Commercial RO</a></h6>
+                            <div class="product__item__price">&#8377;16000.00</div>
                             <div class="cart_add">
                                 <a href="#">Add to cart</a>
                             </div>
@@ -231,14 +231,14 @@
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="product__item">
-                        <div class="product__item__pic set-bg" data-setbg="img/shop/product-7.jpg">
+                        <div class="product__item__pic set-bg" data-setbg="img/shop/kent-elite.png">
                             <div class="product__label">
-                                <span>Cupcake</span>
+                                <span>Commercial</span>
                             </div>
                         </div>
                         <div class="product__item__text">
-                            <h6><a href="#">Dulce De Leche</a></h6>
-                            <div class="product__item__price">&#8377;32.00</div>
+                            <h6><a href="#">KENT Elite Plus</a></h6>
+                            <div class="product__item__price">&#8377;12000.00</div>
                             <div class="cart_add">
                                 <a href="#">Add to cart</a>
                             </div>
@@ -247,14 +247,14 @@
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="product__item">
-                        <div class="product__item__pic set-bg" data-setbg="img/shop/product-8.jpg">
+                        <div class="product__item__pic set-bg" data-setbg="img/shop/kent-elite2.png">
                             <div class="product__label">
-                                <span>Cupcake</span>
+                                <span>Commercial</span>
                             </div>
                         </div>
                         <div class="product__item__text">
-                            <h6><a href="#">Mississippi Mud</a></h6>
-                            <div class="product__item__price">&#8377;08.00</div>
+                            <h6><a href="#">KENT Elite-II</a></h6>
+                            <div class="product__item__price">&#8377;13000.00</div>
                             <div class="cart_add">
                                 <a href="#">Add to cart</a>
                             </div>
