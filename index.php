@@ -46,10 +46,10 @@
                     <div class="about__text">
                         <div class="section-title">
                             <span>About Sujala Aqua</span>
-                            <h2>Cakes and bakes from the house of Queens!</h2>
+                            <h2>Title Comes Here</h2>
                         </div>
-                        <p>The "Cake Shop" is a Jordanian Brand that started as a small family business. The owners are
-                        Dr. Iyad Sultan and Dr. Sereen Sharabati, supported by a staff of 80 employees.</p>
+                        <p>Over 10+ years of experience in water treatment plants in Domestic and commercial.</p>
+                        <p>We can provide complete guidance for your requirements in Commercial RO plants, Industrial RO plants and Softeners apart from the domestic equipment models. </p>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6">

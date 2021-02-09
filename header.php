@@ -17,7 +17,9 @@
             </div>
         </div>
         <div class="offcanvas__logo">
-            <a href="./index.php"><img src="img/logo.png" alt=""></a>
+            <a href="index.php">
+                <!--<img src="img/logo.png" alt="">-->
+            </a>
         </div>
         <div id="mobile-menu-wrap"></div>
         <div class="offcanvas__option">
@@ -91,11 +93,11 @@
                 <div class="col-lg-12">
                     <nav class="header__menu mobile-menu">
                         <ul>
-                            <li class="active"><a href="#">Home</a></li>
-                            <li><a href="#">About Us</a></li>
+                            <li class="active"><a href="index.php">Home</a></li>
+                            <li><a href="about-us.php">About Us</a></li>
                             <li><a href="#">Products</a>
                                 <ul class="dropdown">
-                                    <li><a href="#">Domestic</a></li>
+                                    <li><a href="domestic.php">Domestic</a></li>
                                     <li><a href="#">Commercial</a></li>
                                    
                                 </ul>

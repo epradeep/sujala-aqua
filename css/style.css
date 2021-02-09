@@ -4018,3 +4018,20 @@ ol {
     display: none;
   }
 }
+
+.romodels
+{
+  list-style-type: none;
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+.romodels li
+{
+   padding: 6px 0;
+}
+
+.fa-star
+{
+  color: #00abe4;
+}
